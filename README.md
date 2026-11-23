@@ -1,6 +1,3 @@
-# LangChain & Gemini AI Agent Experiments (`ragg_agent`)
-
-A collection of Python scripts demonstrating LangChain workflows, parallel runnables, message handling, and custom tool calling powered by Google Gemini (`gemini-3.6-flash`).
 
 ## Project Structure
 
